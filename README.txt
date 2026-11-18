@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Mohamed Aadhil**, Embedded & Software Engineer at [KoedIt (Pvt) Ltd](https://koedit.lk) and BSc in Applied Sciences (Computer Science & Physics) undergraduate at Rajarata University of Sri Lanka.
 
-🔗 **Live Site:** [https://aadhil-nisar.github.io/portfolio/](https://aadhil-nisar.github.io/portfolio/)
+🔗 **Live Site:** https://aadhil-nisar.github.io/portfolio/
 
 ---
 
